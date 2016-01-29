@@ -4,8 +4,8 @@ PyBitSet is a very simple Python library to create and manage bitsets.
 
 ### Installation
 ```sh
-$ git clone https://github.com/essessv/pybitset.git
-$ cd pybitset
+$ git clone https://github.com/essessv/PyBitSet.git
+$ cd PyBitSet
 $ python setup.py install
 ```
 ### Running unit tests
